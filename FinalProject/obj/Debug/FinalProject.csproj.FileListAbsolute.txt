@@ -1,0 +1,46 @@
+K:\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+K:\FinalProject\FinalProject\obj\Debug\Interop.WMPLib.dll
+K:\FinalProject\FinalProject\obj\Debug\AxInterop.WMPLib.dll
+K:\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.ResolveComReference.cache
+K:\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+K:\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\COMPLETE PRO\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\COMPLETE PRO\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\COMPLETE PRO\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\COMPLETE PRO\FinalProject\FinalProject\bin\Debug\Interop.WMPLib.dll
+D:\COMPLETE PRO\FinalProject\FinalProject\bin\Debug\AxInterop.WMPLib.dll
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\Interop.WMPLib.dll
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\AxInterop.WMPLib.dll
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.ResolveComReference.cache
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.About.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.AdminLogin.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.Attendance1.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.EmpCards.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.EmpLeave.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.EmployeeData.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.EmpRegistration.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.EnrollmentForm.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.Main.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.FormReports.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.Help.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.MonthlyReport.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.RegAdmin.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.Scaning.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.Splash.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.TimeMargin.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.TimeSheet.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.VedioHelp.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.VerificationForm.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.ViewTimeTable.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.Year.resources
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\COMPLETE PRO\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\AbdulRahman\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\AbdulRahman\Desktop\FinalProject\FinalProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\AbdulRahman\Desktop\FinalProject\FinalProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AbdulRahman\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.ResolveComReference.cache
+C:\Users\AbdulRahman\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\AbdulRahman\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
